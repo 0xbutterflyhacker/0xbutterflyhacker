@@ -8,11 +8,11 @@ Outside of tech, I dabble in the arts. I've done theatre tech (specifically ligh
 
 ##### Languages ⌨️
 
-[![Languages I Use](https://skillicons.dev/icons?i=js,ts,html,css,cpp,python)](https://skillicons.dev)
+[![Languages I Use](https://skillicons.dev/icons?i=js,nodejs,ts,html,css,cpp,python)](https://skillicons.dev)
 
 ##### Frameworks 🏗️
 
-[![Frameworks I've Used](https://skillicons.dev/icons?i=nodejs,react,bootstrap)](https://skillicons.dev)
+[![Frameworks I've Used](https://skillicons.dev/icons?i=react,bootstrap)](https://skillicons.dev)
 
 ##### Other Tools ⚙️
 
