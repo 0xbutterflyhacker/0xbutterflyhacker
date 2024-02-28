@@ -1,6 +1,6 @@
 #### Hello World! 👋🏾
 
-I'm Chantal Jenkins (they/any pronouns), and I'm currently pursuing a Bachelors in Computer Science at Binghamton University 💚 I'm an _aspiring_ full-stack web dev or software engineer, but we shall see how that particular cookie crumbles.
+I'm Chantal Jenkins (they/any pronouns), and I'm currently pursuing a Bachelors in Computer Science at Binghamton University 💚
 
 Outside of tech, I dabble in the arts. I've done theatre tech (specifically lighting) and I do a bit of drawing when I can find the time.
 
