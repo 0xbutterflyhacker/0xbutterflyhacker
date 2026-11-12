@@ -23,8 +23,7 @@ Outside of tech, I dabble in the arts. I've done theatre tech (specifically ligh
 _Current Project(s)_: palette-gen, better-scheduler
 
 - [🎨 palette-gen](https://github.com/0xbutterflyhacker/palette-gen) - a web app written in react to generate color palettes
-- [📚 better-scheduler](https://github.com/0xbutterflyhacker/better-scheduler) - a web app written in react and using a postgresql database to simulate an online class registration site
-
+- [🚆 jimbo city transit](https://github.com/0xbutterflyhacker/jimbocitytransit) - a balatro mod written in lua, featuring content inspired by the new york city subway system
 <!--
 **0xbutterflyhacker/0xbutterflyhacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
